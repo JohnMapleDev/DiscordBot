@@ -1,2 +1,14 @@
-# DiscordBot
- B3ngT, The Discord bot who helps you with your everyday life. 
+# B3ngT, The Friendly Discord Bot
+## Easy to use, easy to update and easy to deal with
+### Bengt is there for you. When nobody else is.
+
+## ToDo List ( 2021- June)
+* Code cleanup
+    * Cogs Etc
+    
+* More Commands
+    * Continue Working on the RPG?
+
+* Gui
+    * Hosting and Gui on different Platforms/Devices 
+        * Web Gui?
