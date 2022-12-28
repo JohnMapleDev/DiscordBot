@@ -2,7 +2,7 @@
 ## Easy to use, easy to update and easy to deal with
 ### Bengt is there for you. When nobody else is.
 
-## ToDo List ( 2021- June)
+## ToDo List
 * Code cleanup
     * Cogs Etc
     
